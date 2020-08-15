@@ -31,6 +31,14 @@ Or you can use Google Colab or Jupyter Notebook to run the code too.
 
 ## Projects 
 
-### 1. Linear and Logstic Regression
+### 1. Linear and Logistic Regression
+
+This project implements linear and logistic regression with Numpy and PyTorch to classify a notMNIST image set. 
+
 ### 2. CNNs
+
+This model classifies the same notMNIST dataset with a convolutional neural network.
+
 ### 3. SVMs and GMM
+
+These two models uses support vector machines and Gaussian mixture models to predict.
